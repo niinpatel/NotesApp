@@ -1,0 +1,31 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "Quickly take notes of anything anywhere anytime. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niinpatel/NotesApp.git"
+  },
+  "keywords": [
+    "[\"Express\"",
+    "\"MongoDB\"",
+    "\"REST\"",
+    "\"NotesApp\"",
+    "\"Mongoose\"]"
+  ],
+  "author": "Nitin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niinpatel/NotesApp/issues"
+  },
+  "homepage": "https://github.com/niinpatel/NotesApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
